@@ -6,6 +6,7 @@
 Above is an image demonstrating the transactions being added to the ledger.
 
 ![image](https://user-images.githubusercontent.com/99841428/177063316-0bc98297-659e-48ad-a117-44c28e105c0a.png)
-above is an image demonstrating the program verifying the ledger is accurate.
+
+Above is an image demonstrating the program verifying the ledger is accurate.
 
 ### The only missing verification step would be for the full nodes of the blockchain to verify that the transaction took place and that the wallet of the sender has sufficient funds for the transaction.
