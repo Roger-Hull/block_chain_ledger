@@ -1,4 +1,4 @@
-# block_chain_ledger
+# blockchain_ledger
 ## Using streamlit to demo blockchain technology
 ### In this class homework we utilized the blockchain technology to keep record of transactions being made. The verification process demonstrates two of the three verification protocols found in a standard blockchain. First, the hash is created which can be verified by rehashing the data after the correct hash is found. If the hash is the same, it is not fraudulent. This data is then kept in a block. Then the program verifies the entire chain to ensure each hash is correct before adding the latest block to the chain.
 
